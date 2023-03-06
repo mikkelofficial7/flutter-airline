@@ -103,6 +103,7 @@ class _MainFragmentContainerState extends State<MainFragmentContainer> {
           return Future.delayed(
               const Duration(seconds: 0), () {
                 setState(() {
+                  _canLoadMore = true;
                   _page = 0;
                   _dataAirline.clear();
                   _apiBloc.add(GetAirlineList(page: _page, size: _size));
