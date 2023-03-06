@@ -1,7 +1,7 @@
 sample_flutter
 2.18
-file:///Users/mikkelseptiano/Desktop/flutter-airline/
-file:///Users/mikkelseptiano/Desktop/flutter-airline/lib/
+file:///Users/mikkelseptiano/Desktop/flutter-airline-sample/
+file:///Users/mikkelseptiano/Desktop/flutter-airline-sample/lib/
 async
 2.14
 file:///Users/mikkelseptiano/Library/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.9.0/
@@ -74,10 +74,6 @@ http_parser
 2.3
 file:///Users/mikkelseptiano/Library/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4/
 file:///Users/mikkelseptiano/Library/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4/lib/
-infinite_scroll_pagination
-2.12
-file:///Users/mikkelseptiano/Library/flutter/.pub-cache/hosted/pub.dartlang.org/infinite_scroll_pagination-3.2.0/
-file:///Users/mikkelseptiano/Library/flutter/.pub-cache/hosted/pub.dartlang.org/infinite_scroll_pagination-3.2.0/lib/
 intl
 2.5
 file:///Users/mikkelseptiano/Library/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.16.1/
@@ -158,10 +154,6 @@ sembast
 2.9
 file:///Users/mikkelseptiano/Library/flutter/.pub-cache/hosted/pub.dartlang.org/sembast-2.4.10+4/
 file:///Users/mikkelseptiano/Library/flutter/.pub-cache/hosted/pub.dartlang.org/sembast-2.4.10+4/lib/
-sliver_tools
-2.12
-file:///Users/mikkelseptiano/Library/flutter/.pub-cache/hosted/pub.dartlang.org/sliver_tools-0.2.9/
-file:///Users/mikkelseptiano/Library/flutter/.pub-cache/hosted/pub.dartlang.org/sliver_tools-0.2.9/lib/
 source_span
 2.14
 file:///Users/mikkelseptiano/Library/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.9.0/
