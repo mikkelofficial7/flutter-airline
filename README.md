@@ -4,4 +4,4 @@
 - using **BLoC** for event-state management
 - using **Scroll Controller** for paginate infinite scroll
 
-![Alt text](https://github.com/mikkelofficial7/flutter-airline/blob/main/demo.png?raw=true "Screenshot")
+<img src="https://github.com/mikkelofficial7/flutter-airline/blob/main/demo.png?raw=true" height=400px>
